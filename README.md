@@ -1,6 +1,13 @@
 # friend-links
 This repo contains the friend links of all my articles published on websites
 
+## Laws of Software Architecture
+
+1. Everything in software architecture is a trade-off.
+2. Why is more important than how.
+
+From the book, [Fundamentals of Software Architecture](https://www.amazon.in/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451)
+
 ## Medium
 
 1. [Angular - Deploy your angular app to GitHub pages](https://medium.com/gitconnected/angular-deploy-your-angular-app-to-github-pages-61466c1aa94a?sk=b345c385c32f0057dba5a518fadfdc77)
