@@ -8,6 +8,18 @@ This repo contains the friend links of all my articles published on websites
 
 From the book, [Fundamentals of Software Architecture](https://www.amazon.in/Fundamentals-Software-Architecture-Neal-Ford/dp/1492043451)
 
+## Welcome to Our Article Repository! 🌟
+
+Hello, and thank you for visiting! 😊 If you've enjoyed reading the articles here and would like to stay updated, please consider **watching 👀** and **starring ⭐** this repository. Your support ❤️ helps us keep sharing valuable insights!
+
+### Message to Contributors ✍️
+
+We’d love for you to share your knowledge! 🧠 If you have an article that you think would benefit others, feel free to contribute it here. 
+**NOTE: all articles should be free to access and not behind a paywall**. 
+We want to ensure that everyone in the community can enjoy the shared content without restrictions. 🌐
+
+Thank you for helping us build a resource that's open to all! 🙌
+
 ## Medium
 
 1. [Angular - Deploy your angular app to GitHub pages](https://medium.com/gitconnected/angular-deploy-your-angular-app-to-github-pages-61466c1aa94a?sk=b345c385c32f0057dba5a518fadfdc77)
