@@ -22,6 +22,7 @@ Thank you for helping us build a resource that's open to all! 🙌
 
 ## Medium
 
+1. [Angular - Add dynamic data to your angular application running on GitHub pages](https://levelup.gitconnected.com/angular-add-dynamic-data-to-your-angular-application-running-on-github-pages-38052890cc38?sk=af5175348cf4122596860f488e921181)
 1. [Angular - Deploy your angular app to GitHub pages](https://medium.com/gitconnected/angular-deploy-your-angular-app-to-github-pages-61466c1aa94a?sk=b345c385c32f0057dba5a518fadfdc77)
 2. [Auth Secure your App using casdoor (Go+Angular)](https://levelup.gitconnected.com/auth-secure-your-app-using-casdoor-go-angular-7d54f496e655?sk=2673043c42b8bd8d7d63ade17de38bf9)
 3. [Jenkins Gerrit - Test your unmerged patchstet before submitting](https://sarvsav.medium.com/jenkins-gerrit-test-your-unmerged-patchstet-before-submitting-d59e0d9776ad)
