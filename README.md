@@ -22,9 +22,10 @@ Thank you for helping us build a resource that's open to all! 🙌
 
 ## Medium
 
-1. [UI/UX Animate anything with GSAP 3 in Angular 17— OpenSource](https://medium.com/gitconnected/ui-ux-animate-anything-with-gsap-3-in-angular-17-opensource-36fd1405652e?sk=a6c9f46927f5406f5f4efce034f8d229)
-2. [Go - init command for your cli app](https://medium.com/@sarvsav/go-init-command-for-your-cli-app-cc97b223045e?sk=5a6d12133f712f00a71d5852a60f4d9f)
-3. [k8s 101 Guide to istio](https://medium.com/@sarvsav/k8s-101-guide-to-istio-acd0f672e8a1?sk=b777565246f94d222fc72e6f50beb67c)
+1. [Shell Finding your current linux shell](https://sarvsav.medium.com/shell-finding-your-current-linux-shell-3629f921a58e?sk=81ace2e1b2c85e635f03221eca4b74d0)
+2. [UI/UX Animate anything with GSAP 3 in Angular 17— OpenSource](https://medium.com/gitconnected/ui-ux-animate-anything-with-gsap-3-in-angular-17-opensource-36fd1405652e?sk=a6c9f46927f5406f5f4efce034f8d229)
+3. [Go - init command for your cli app](https://medium.com/@sarvsav/go-init-command-for-your-cli-app-cc97b223045e?sk=5a6d12133f712f00a71d5852a60f4d9f)
+4. [k8s 101 Guide to istio](https://medium.com/@sarvsav/k8s-101-guide-to-istio-acd0f672e8a1?sk=b777565246f94d222fc72e6f50beb67c)
 5. [Jenkins How to track the status of downstream jobs from parent job using cli](https://sarvsav.medium.com/jenkins-how-to-track-the-status-of-downstream-jobs-from-parent-job-using-cli-8ba0a0a01332?sk=1e47eb3b3f9a6035971c4d5a2887b6e5)
 6. [Process What I learnt while refining a GitHub new feature issue and how TDD helped me](https://medium.com/@sarvsav/process-what-i-learnt-while-refining-a-github-new-feature-issue-and-how-tdd-helped-me-8030bc75b8c6?sk=6b3c6a4281f64e1e3b3b3d6db78803fb)
 7. [Static Code Analysis Enforce coding standards using semgrep](https://medium.com/@sarvsav/static-code-analysis-enforce-coding-standards-using-semgrep-d04fd6b9af6f?sk=bba5d03e533f8ed82aadc17ebaf9df14)
